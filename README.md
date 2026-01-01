@@ -12,6 +12,8 @@
 
 This is a learning project — not a production VCS.
 
+Read my article to better understand what i did: https://abel-lee.vercel.app/blog/building-a-git-clone-from-scratch
+
 ---
 
 ## What `lit` supports
